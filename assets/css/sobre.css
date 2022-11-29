@@ -1,0 +1,22 @@
+
+.sobre {
+    background-color: #9ccde3;
+    display: inline-block;
+    font-family: 'Hind Madurai', sans-serif;
+    font-size: 1.5rem;
+    height: 12rem;
+    position: absolute;
+    text-align: center;
+    top: 74.8%;
+    padding-top: 1rem;
+}
+.sobre h2 {
+    color: #a30000;
+    font-size: 1.765rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+.sobre p {
+    font-size: 1.3rem;
+    font-weight: bold;
+}

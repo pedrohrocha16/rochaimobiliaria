@@ -1,0 +1,54 @@
+.content {
+    left: 50%;
+    position: absolute;
+    overflow: hidden;
+    top: 36%;
+    transform: translate(-50%, -35%);
+    width: 100%;
+}
+.navigation {
+    display: flex;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%) ;
+}
+.bar {
+    border: 2px solid white;
+    cursor: pointer;
+    transition: .3s;
+    width: 40px;
+}
+.bar:hover {
+    background: rgb(72, 201, 252);  
+}
+input {
+    display: none;
+}
+.slides {
+    display: flex;
+    height: 100%;
+    width: 500%;
+}
+.slide {
+    transition: .6s;
+    width: 20%;
+}
+.slide img {
+    height: 60vh;
+    width: 100vw;
+}
+#slide1:checked ~ .s1{
+    margin-left: 0;
+}
+#slide2:checked ~ .s1{
+    margin-left: -20%;
+}
+#slide3:checked ~ .s1{
+    margin-left: -40%;
+}
+#slide4:checked ~ .s1{
+    margin-left: -60%;
+}
+#slide5:checked ~ .s1{
+    margin-left: -80%;
+}
