@@ -34,7 +34,7 @@ input {
     width: 20%;
 }
 .slide img {
-    height: 60vh;
+    height: 50vh;
     width: 100vw;
 }
 #slide1:checked ~ .s1{

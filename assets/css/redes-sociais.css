@@ -1,0 +1,8 @@
+.redes-sociais {
+    background: #ffffff;
+    display: flex;
+    height: 8rem;
+    position: absolute;
+    top: 8rem;
+    width: 100vw;  
+}
