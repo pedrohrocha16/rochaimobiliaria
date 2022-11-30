@@ -3,7 +3,7 @@
     display: flex;
     font-weight: bold;
     position: relative;
-    top: 31rem;
+    top: 30rem;
     width: 100vw;
 }
 .casas li img {
@@ -21,7 +21,7 @@
 .valor {
     background: rgb(15 76 106);
     border: 1px solid black;
-    margin-left: 4rem;
+    margin-left: 5.675rem;
     width: 15rem;
 }
 
