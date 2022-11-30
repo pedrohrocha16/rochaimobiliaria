@@ -2,8 +2,8 @@
     background: rgb(25 43 52);
     display: flex;
     font-weight: bold;
-    position: absolute;
-    top: 32.5rem;
+    position: relative;
+    top: 26.5rem;
     width: 100vw;
 }
 .casas li img {
