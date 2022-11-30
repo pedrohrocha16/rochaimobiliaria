@@ -4,11 +4,12 @@
     display: inline-block;
     font-family: 'Hind Madurai', sans-serif;
     font-size: 1.5rem;
-    height: 12rem;
+    height: 10.765rem;
     position: absolute;
     text-align: center;
     top: 67.8%;
     padding-top: 1rem;
+    width: 100vw;
 }
 .sobre h2 {
     color: #a30000;
