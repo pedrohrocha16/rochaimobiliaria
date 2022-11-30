@@ -1,9 +1,15 @@
 .redes-sociais {
     background: #76a8ab;
     display: flex;
+<<<<<<< HEAD
     height: 3rem;
     position: absolute;
     top: 15rem;
+=======
+    height: 5rem;
+    position: absolute;
+    top: 8rem;
+>>>>>>> c72f1c9367715e7dcb7b8fdc017605e7a5cad3da
     width: 100vw;
 }
 .redes-sociais img {
