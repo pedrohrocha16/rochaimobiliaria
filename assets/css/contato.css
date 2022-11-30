@@ -1,22 +1,22 @@
 .contato {
     background: #314e56;
     display: flex;
-    height: 8rem;
+    height: 15rem;
     position: absolute;
-    top: 188rem;
+    top: 194rem;
     width: 100vw;  
 }
 .contato__img {
     height: 7rem;
     left: 5.5rem;
     position: absolute;
-    top: 0rem;
+    top: 6rem;
     width: 12rem;
 }
 .contato h3 {
-    color: #999999;
+    color: #e7e7e7;
     font-size: 0.8rem;
-    left: 5rem;
+    left: 2rem;
     position: absolute;
-    top: 7rem;
+    top: 13rem;
 }

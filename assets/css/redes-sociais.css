@@ -1,15 +1,13 @@
 .redes-sociais {
-    background: #d3d3d3;
+    background: #76a8ab;
     display: flex;
-    height: 5rem;
-    padding-left: 4.5rem;
+    height: 3rem;
     position: absolute;
-    top: 8rem;
-    width: 100%;
+    top: 15rem;
+    width: 100vw;
 }
 .redes-sociais img {
     height: 3rem;
-    margin-top: 1rem;
-    padding: 0 3rem 0 0;
+    margin: 0 30% 0 0;
     width: 3rem;
 }
