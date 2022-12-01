@@ -4,7 +4,7 @@
     overflow: hidden;
     top: 36%;
     transform: translate(-50%, -35%);
-    width: 100%;
+    width: 100vw;
 }
 .navigation {
     display: flex;

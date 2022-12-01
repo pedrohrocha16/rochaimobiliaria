@@ -1,0 +1,54 @@
+@media screen and (min-width: 768px){
+    .casas li img {
+        height: 18rem;
+        padding-left: 10%;
+        padding-top: 2rem;
+        width: 80vw;
+    }
+    .valor {
+        margin-left: 18rem;
+        width: 25vw;
+    }
+    .contato {
+        top: 218rem;
+    }
+    .contato img {
+        left: 18rem;
+    }
+    .contato h3{
+        left: 13.9rem;
+    }
+    .redes-sociais img {
+        left: 10rem;
+        margin: 0 20% 0 0;
+    }
+}
+@media screen and (min-width: 1024px){
+    .sobre h2 {
+        font-size: 2.765rem;
+    }
+    .sobre p {
+        font-size: 1.2rem;
+    }
+    .casas li img {
+        height: 25rem;
+        padding-top: 0.55rem;
+    }
+    .valor {
+        margin-left: 25rem;
+        width: 20vw;
+    }
+    .contato {
+        top: 250.5rem
+    }
+    .contato img {
+        left: 25rem;
+    }
+    .contato h3{
+        left: 20rem;
+    }
+    .redes-sociais img {
+        left: 10rem;
+        margin: 0 25% 0 0;
+    }
+}    

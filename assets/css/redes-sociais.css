@@ -8,6 +8,7 @@
 }
 .redes-sociais img {
     height: 3rem;
-    margin: 0 32% 0 0;
+    margin: 0px 30% 0 0;
+    position: relative;
     width: 3rem;
 }
