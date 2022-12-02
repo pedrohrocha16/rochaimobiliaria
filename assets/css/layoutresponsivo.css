@@ -10,7 +10,7 @@
         width: 25vw;
     }
     .contato {
-        top: 218rem;
+        top: 30rem;
     }
     .contato img {
         left: 18rem;
@@ -39,7 +39,7 @@
         width: 20vw;
     }
     .contato {
-        top: 250.5rem
+        top: 29rem
     }
     .contato img {
         left: 25rem;
@@ -52,3 +52,46 @@
         margin: 0 25% 0 0;
     }
 }    
+@media screen and (min-width: 1440px){
+    .slide img {
+       height: 69vh;
+    }
+    
+    .sobre{
+        top: 80%;
+    }
+    .sobre p {
+        font-size: 1.4rem;
+    }
+    .casas {
+        top: 45rem;
+    }
+    .casas li img {
+        height: 30rem;
+        padding-left: 16%;
+        padding-top: 0.55rem;
+        width: 60rem;
+    }
+    .casas li p {
+        font-size: 1.4rem;
+    }
+    .valor {
+        font-size: 1.5rem;
+        margin-left: 35rem;
+        width: 20vw;
+    }
+    .contato {
+        top: 45rem;
+    }
+    .contato img {
+        left: 40rem;
+    }
+    .contato h3 {
+        left: 32rem;
+        font-size: 1rem;
+    }
+    .redes-sociais img {
+        left: 20rem;
+        margin: 0 25% 0 0;
+    }
+}

@@ -2,8 +2,8 @@
     background: #314e56;
     display: flex;
     height: 15rem;
-    position: absolute;
-    top: 188rem;
+    position: relative;
+    top: 30rem;
     width: 100vw;  
 }
 .contato__img {
