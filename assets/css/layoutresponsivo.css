@@ -1,3 +1,19 @@
+@media screen and (min-width: 375px){
+    .redes-sociais img{
+        margin: 0px 31% 0 0;
+    }
+}
+@media screen and (min-width: 425px){
+    .contato h3 {
+        left: 2.8rem;
+    }
+    .contato__img{
+        left: 7rem;
+    }
+    .redes-sociais {
+        padding-left: 0.5rem;
+    }
+}
 @media screen and (min-width: 768px){
     .casas li img {
         height: 18rem;
